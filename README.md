@@ -1,3 +1,5 @@
 # SeaOfAds
 
 LOW POWER INDUSTRIAL SOLUTIONS
+
+(c) 2016 "Sea Of Ads"
